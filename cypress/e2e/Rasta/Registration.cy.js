@@ -6,9 +6,6 @@ describe('example to-do app', () => {
     it('Login', () => { 
         cy.wait(200)
         cy.get('.Header_buttons__QxOme > .Button_button__bShZq').click()
-        
-
-
     })
 })
 
