@@ -21,5 +21,6 @@ describe('example to-do app', () => {
         cy.get('.Input_input__gaPT2').type('Test Dokon Toshkent (kokcha)')
         cy.get('.Header_searchList__RFohX > :nth-child(2) > a > .Header_restaurantItem__8SCd3').click({force: true})
         //End-Enter to the restaurant
+        
     })
 })
