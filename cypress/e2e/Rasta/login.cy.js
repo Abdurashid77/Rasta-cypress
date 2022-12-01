@@ -13,6 +13,6 @@ describe('example to-do app', () => {
         cy.get(':nth-child(2) > .InputMask_inputBox__kdkmE > .InputMask_input__wMoYl').type('202020')
         cy.wait(200)
         cy.get('.Button_greenButton__UlmDG').click()
-        cy.wait(500)
+        cy.wait(4000)  
     })
 })
