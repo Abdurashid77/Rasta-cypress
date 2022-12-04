@@ -17,7 +17,7 @@ describe('Product option, child option, ingredients', function () {
     // TODO: Implement action: "Select correct adress or add it"
     // TODO: Implement action: "Select that restaurant that has product with some options and child options"
     // TODO: Implement action: "Click on that product that has some options and child options"
-    // TODO: Implement result: "Every option has child option."
+    // TODO: Implement result: "Every option has child option." 
     throw 'Not implemented';
   });
 
